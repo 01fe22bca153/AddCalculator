@@ -2,7 +2,7 @@
  * The Calculator class performs basic arithmetic operations such as addition, subtraction,
  * multiplication, and division on two float operands.
  */
-class Calculator {
+class Calculator extends Extended_Calculator{
  
     /**
      * The function "addition" takes two float operands and returns their sum.
